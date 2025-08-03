@@ -11,7 +11,7 @@ If you're tired of:
 Then follow these steps to sign the petition:
 
 - Fork this repository
-- Make a txt in the fork of your repo, named after youre github handle (e.g: yourGitHubHandle.txt)
+- Make a txt in the signatures folder of your fork, named after youre github handle (e.g: yourGitHubHandle.txt)
 - In the txt, write this:
   - Username: yourGitHubHandle
   - Email: your.email@example.com
