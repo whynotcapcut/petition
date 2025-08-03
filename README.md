@@ -16,7 +16,7 @@ Then follow these steps to sign the petition:
   - Username: yourGitHubHandle
   - Email: your.email@example.com
   - Preferred Alternative: [name of editing app or platform]
-- Before commiting your changes to your txt file, make sure select "Create a new branch and start a pull request" instead of "Commit directly to the main branch"
+- Before commiting your changes to your txt file, make sure to select "Create a new branch and start a pull request" instead of "Commit directly to the main branch"
 - This will send a pull request to this repo, and your txt file will be here once your pull request is merged.
 
 We’re not just here to complain—we’re here to change the game.💥  
