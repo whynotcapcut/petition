@@ -13,7 +13,7 @@ Then follow these steps to sign the petition:
 - Fork this repository
 - Make a txt in the fork of your repo, named after youre github handle (e.g: yourGitHubHandle.txt)
 - In the txt, write this:
-  > Username: yourGitHubHandle
+  Username: yourGitHubHandle
   Email: your.email@example.com
   Preferred Alternative: [name of editing app or platform]
 - Before commiting your changes to your txt file, make sure select "Create a new branch and start a pull request" instead of "Commit directly to the main branch"
